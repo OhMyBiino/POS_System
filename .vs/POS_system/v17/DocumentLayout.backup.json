@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\POS_system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A762746F-8F86-4BE1-95A8-CD2415BCEAF5}|POS_system\\POS_system.csproj|c:\\users\\admin\\source\\repos\\pos_system\\pos_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A762746F-8F86-4BE1-95A8-CD2415BCEAF5}|POS_system\\POS_system.csproj|solutionrelative:pos_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A762746F-8F86-4BE1-95A8-CD2415BCEAF5}|POS_system\\POS_system.csproj|c:\\users\\admin\\source\\repos\\pos_system\\pos_system\\view\\frmuserview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A762746F-8F86-4BE1-95A8-CD2415BCEAF5}|POS_system\\POS_system.csproj|solutionrelative:pos_system\\view\\frmuserview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A762746F-8F86-4BE1-95A8-CD2415BCEAF5}|POS_system\\POS_system.csproj|c:\\users\\admin\\source\\repos\\pos_system\\pos_system\\view\\frmuserview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A762746F-8F86-4BE1-95A8-CD2415BCEAF5}|POS_system\\POS_system.csproj|solutionrelative:pos_system\\view\\frmuserview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A762746F-8F86-4BE1-95A8-CD2415BCEAF5}|POS_system\\POS_system.csproj|c:\\users\\admin\\source\\repos\\pos_system\\pos_system\\view\\frmuserview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A762746F-8F86-4BE1-95A8-CD2415BCEAF5}|POS_system\\POS_system.csproj|solutionrelative:pos_system\\view\\frmuserview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A762746F-8F86-4BE1-95A8-CD2415BCEAF5}|POS_system\\POS_system.csproj|c:\\users\\admin\\source\\repos\\pos_system\\pos_system\\sampleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A762746F-8F86-4BE1-95A8-CD2415BCEAF5}|POS_system\\POS_system.csproj|solutionrelative:pos_system\\sampleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\POS_system\\POS_system\\Program.cs",
+              "RelativeDocumentMoniker": "POS_system\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\POS_system\\POS_system\\Program.cs*",
+              "RelativeToolTip": "POS_system\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T23:23:16.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SampleView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\POS_system\\POS_system\\SampleView.cs",
+              "RelativeDocumentMoniker": "POS_system\\SampleView.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\POS_system\\POS_system\\SampleView.cs [Design]*",
+              "RelativeToolTip": "POS_system\\SampleView.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T23:14:58.025Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmUserView.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\POS_system\\POS_system\\View\\frmUserView.Designer.cs",
+              "RelativeDocumentMoniker": "POS_system\\View\\frmUserView.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\POS_system\\POS_system\\View\\frmUserView.Designer.cs*",
+              "RelativeToolTip": "POS_system\\View\\frmUserView.Designer.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwMoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T23:11:12.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmUserView.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\POS_system\\POS_system\\View\\frmUserView.cs",
+              "RelativeDocumentMoniker": "POS_system\\View\\frmUserView.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\POS_system\\POS_system\\View\\frmUserView.cs*",
+              "RelativeToolTip": "POS_system\\View\\frmUserView.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T22:48:11.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmUserView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\POS_system\\POS_system\\View\\frmUserView.cs",
+              "RelativeDocumentMoniker": "POS_system\\View\\frmUserView.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\POS_system\\POS_system\\View\\frmUserView.cs [Design]*",
+              "RelativeToolTip": "POS_system\\View\\frmUserView.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T22:47:53.101Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\POS_system\POS_system\bin\Debug\POS_system.exe.config
+C:\Users\Admin\source\repos\POS_system\POS_system\bin\Debug\POS_system.exe
+C:\Users\Admin\source\repos\POS_system\POS_system\bin\Debug\POS_system.pdb
+C:\Users\Admin\source\repos\POS_system\POS_system\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\source\repos\POS_system\POS_system\obj\Debug\POS_system.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\POS_system\POS_system\obj\Debug\POS_system.frmLogin.resources
+C:\Users\Admin\source\repos\POS_system\POS_system\obj\Debug\POS_system.frmMain.resources
+C:\Users\Admin\source\repos\POS_system\POS_system\obj\Debug\POS_system.Properties.Resources.resources
+C:\Users\Admin\source\repos\POS_system\POS_system\obj\Debug\POS_system.Sample.resources
+C:\Users\Admin\source\repos\POS_system\POS_system\obj\Debug\POS_system.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\POS_system\POS_system\obj\Debug\POS_system.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\POS_system\POS_system\obj\Debug\POS_system.csproj.Up2Date
+C:\Users\Admin\source\repos\POS_system\POS_system\obj\Debug\POS_system.exe
+C:\Users\Admin\source\repos\POS_system\POS_system\obj\Debug\POS_system.pdb
+C:\Users\Admin\source\repos\POS_system\POS_system\obj\Debug\POS_system.SampleAdd.resources
+C:\Users\Admin\source\repos\POS_system\POS_system\obj\Debug\POS_system.SampleView.resources
+C:\Users\Admin\source\repos\POS_system\POS_system\obj\Debug\POS_system.View.frmUserView.resources
